@@ -21,15 +21,27 @@
 # Registers:
 
 # File marks:
-'0  1  8  /home/ajay/new2.txt
-'1  1  3  /home/ajay/new1.txt
+'0  1  5  /home/ajay/mearge.txt
+'1  1  8  /home/ajay/new2.txt
+'2  1  3  /home/ajay/new1.txt
 
 # Jumplist (newest first):
+-'  1  5  /home/ajay/mearge.txt
+-'  1  8  /home/ajay/new2.txt
+-'  1  3  /home/ajay/new1.txt
+-'  1  3  /home/ajay/new1.txt
 -'  1  8  /home/ajay/new2.txt
 -'  1  3  /home/ajay/new1.txt
 -'  1  3  /home/ajay/new1.txt
 
 # History of marks within files (newest to oldest):
+
+> /home/ajay/mearge.txt
+	"	1	5
+	^	1	6
+	.	1	5
+	+	1	5
+	e	1	0
 
 > /home/ajay/new2.txt
 	"	1	8

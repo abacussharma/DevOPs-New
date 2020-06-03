@@ -132,3 +132,27 @@ git branch -d b1
 git pull origin master
 #1591168968
 git pull origin master --allow-unrelated-histories
+#1591169004
+git add .
+#1591169013
+git commit -m "ajj"
+#1591169023
+git push -u origin master
+#1591169586
+git checkout -b c1
+#1591169637
+vi mearge.txt
+#1591169715
+git checkout master
+#1591169824
+git mearge c1
+#1591169840
+git merge c1
+#1591169852
+git merge c1 master
+#1591169875
+git log --oneline master
+#1591169908
+ls
+#1591169945
+git status
