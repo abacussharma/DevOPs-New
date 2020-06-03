@@ -110,3 +110,25 @@ git pull origin master
 git push -u origin master
 #1591168024
 git checkout b1
+#1591168033
+git add .
+#1591168048
+git commit -m "ajj"
+#1591168058
+git push -u origin master
+#1591168091
+git pull origin master
+#1591168172
+git pull
+#1591168203
+git pull remote master
+#1591168214
+git pull origin master
+#1591168658
+git branch
+#1591168867
+git branch -d b1
+#1591168874
+git pull origin master
+#1591168968
+git pull origin master --allow-unrelated-histories
