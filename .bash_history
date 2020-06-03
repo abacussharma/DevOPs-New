@@ -156,3 +156,15 @@ git log --oneline master
 ls
 #1591169945
 git status
+#1591170193
+git stash
+#1591170209
+git checkout c1
+#1591170295
+git pull origin master --allow-unrelated-histories
+#1591170311
+git checkout c1
+#1591170342
+git stash pop
+#1591170404
+git checkout master
