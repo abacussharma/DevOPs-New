@@ -168,3 +168,21 @@ git checkout c1
 git stash pop
 #1591170404
 git checkout master
+#1591170418
+git add .bash_history
+#1591170433
+git commit -m "asd"
+#1591170443
+git checkout c1
+#1591170479
+git merge c1
+#1591170484
+git checkout c1
+#1591170552
+git checkout -d c1
+#1591170592
+git clean -n
+#1591170596
+git clean -f
+#1591249529
+git status
