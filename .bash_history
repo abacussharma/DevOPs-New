@@ -186,3 +186,21 @@ git clean -n
 git clean -f
 #1591249529
 git status
+#1591250864
+git add .
+#1591250874
+git commit -m "ajay"
+#1591250881
+git push
+#1591251568
+git checkout -b d1
+#1591251581
+touch aa bb
+#1591251627
+git checkout master
+#1591251644
+git merge d1
+#1591251657
+git status
+#1591251662
+git add
